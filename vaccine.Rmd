@@ -200,6 +200,7 @@ knitr::include_graphics("./May26peak.png")
 </div>
 <br>
 <br>
+<br>
 
 2. **長條圖**
 
