@@ -129,7 +129,7 @@ knitr::include_graphics("./all after.png")
 
 _____________________________
 
-1. **折線圖**
+**1. 折線圖**
 
 <br>
 <div class="col-md-6">
@@ -202,7 +202,7 @@ knitr::include_graphics("./May26peak.png")
 <br>
 <br>
 
-2. **長條圖**
+**2. 長條圖**
 
 <br>
 
